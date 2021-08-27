@@ -129,4 +129,4 @@ async def delete_todo(id: str):
 ```
 
 
-## For The Video Tutotial And More Tutorials Visit [My YouTube Channel](https://www.youtube.com/channel/UCQf9BYcqr8pzKrY14ZyMsbg)
+## For The Video Tutorial And More Tutorials Visit [My YouTube Channel](https://www.youtube.com/channel/UCQf9BYcqr8pzKrY14ZyMsbg)
